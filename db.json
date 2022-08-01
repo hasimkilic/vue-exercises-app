@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "username": "haşim kılıç",
+      "fullname": "hkılıc",
+      "password": "400f40cdd5ab6e3a4426f9c37eeb81e1b03a4d6d",
+      "id": 1,
+      "likes": [
+        2,
+        4,
+        3,
+        4,
+        3,
+        4,
+        2,
+        3,
+        4,
+        2,
+        3,
+        4,
+        2,
+        3,
+        4,
+        3,
+        2,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "username": "admin",
+      "fullname": "admin",
+      "password": "400f40cdd5ab6e3a4426f9c37eeb81e1b03a4d6d",
+      "id": 2,
+      "likes": [
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        4,
+        3,
+        3,
+        4,
+        1,
+        2
+      ],
+      "bookmarks": [
+        2
+      ]
+    }
+  ],
+  "bookmarks": [
+    {
+      "title": "Vue Dokümantasyon",
+      "url": "https://v3.vuejs.org",
+      "categoryId": 1,
+      "description": "Dünyanın engüzel framework'ü",
+      "userId": 2,
+      "created_at": "2022-08-01T11:45:37.858Z",
+      "id": 1
+    },
+    {
+      "title": "Frontend Dünyası",
+      "url": "https://...\"",
+      "categoryId": 3,
+      "description": "Çok güzel ibr meslek",
+      "userId": 2,
+      "created_at": "2022-08-01T11:50:09.025Z",
+      "id": 2
+    },
+    {
+      "title": "Vue Js",
+      "url": "http://v3.vuejs.org",
+      "categoryId": 1,
+      "description": "Çok iyi bir framework",
+      "userId": 2,
+      "created_at": "2022-08-01T12:13:39.968Z",
+      "id": 3
+    },
+    {
+      "title": "İzlenecek diziler",
+      "url": "http://...",
+      "categoryId": 6,
+      "description": "Tenet",
+      "userId": 2,
+      "created_at": "2022-08-01T13:31:01.575Z",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vue Js",
+      "id": 1
+    },
+    {
+      "name": "React Js",
+      "id": 2
+    },
+    {
+      "name": "Frontend",
+      "id": 3
+    },
+    {
+      "name": "Backend",
+      "id": 4
+    },
+    {
+      "name": "Cloud",
+      "id": 5
+    },
+    {
+      "name": "Sosyal Yaşam",
+      "id": 6
+    }
+  ]
+}
