@@ -1,7 +1,3 @@
-# booklike-app
-
-### Bu uygulamada router,vuex,services konuları pekiştirmek adına güzel bir uygulama yaptık.
-
 ## Project setup
 ```
 npm install
